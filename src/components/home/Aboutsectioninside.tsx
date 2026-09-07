@@ -33,7 +33,7 @@ const AboutSection: React.FC = () => {
     },
     {
       id: 2,
-      value: 20,
+      value: 21,
       suffix: "+",
       label: "Years of Experience",
       icon: "/assets/images/icons/handshake.gif",
@@ -82,7 +82,7 @@ const AboutSection: React.FC = () => {
 
           <p className="paragraph" data-aos="fade-right">
             At VSource Overseas, we specialize in transforming academic ambition
-            into international achievement. With a legacy of over 20 years, we
+            into international achievement. With a legacy of over 21 years, we
             are proud to be South India’s premier consultancy for Master’s
             admissions abroad, guiding thousands of students to top-ranked
             universities across the and other leading destinations.
